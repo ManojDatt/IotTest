@@ -1,0 +1,6 @@
+SERVER_BASE_URL: http://localhost:8000/iot/gateway/v1/sensor/
+SERVER_USERNAME: IOT@Snow
+SERVER_PASSWORD: IOT@Snow12345
+REDIS_PORT: 6379
+REDIS_HOST: localhost
+REDIS_DB: 0
